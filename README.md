@@ -1,9 +1,15 @@
 # straight_flow_celeba_reproduce
-Follow up for loss diverge issue reported in https://x.com/LodestoneE621/status/1954757495072882693
+Follow up for loss diverge issue reported in 
+
+https://x.com/LodestoneE621/status/1954757495072882693
 
 Code was copied & modified from the author's gist:
 
 https://gist.github.com/lodestone-rock/97d442ff3a92d53e4256959ead3e969e 
+
+The reproduced result is here:
+
+https://wandb.ai/z-y00-amd/straight_flow_celeba_reproduce?nw=nwuserzy00
 
 # Import data 
 We first import the wandb result from https://wandb.ai/lodestone-rock/straight_flow_celeba
