@@ -1,0 +1,6 @@
+*.json
+artifact/
+media/
+wandb/
+*.yaml
+*.txt
